@@ -1,0 +1,16 @@
+* {
+  font-family: 'AvenirArabic-Black', Courier, monospace;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-background-clip: text;
+  background-clip: text;
+}

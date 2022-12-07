@@ -1,0 +1,21 @@
+<template>
+  <svg xmlns="http://www.w3.org/2000/svg" width="17.314" height="17.314">
+    <path
+      data-name="Path 11826"
+      d="M10.657 19.314A8.657 8.657 0 1 0 2 10.657a8.657 8.657 0 0 0 8.657 8.657z"
+      transform="translate(-2 -2)"
+      style="opacity: 0.25; fill: #377dff; fill-rule: evenodd"
+    />
+    <path
+      data-name="Path 11827"
+      d="M10.325 7.936A.866.866 0 0 0 9 8.67v5.53a.866.866 0 0 0 1.325.734l4.427-2.767a.866.866 0 0 0 0-1.468z"
+      transform="translate(-2.94 -2.779)"
+      style="fill: #377dff; fill-rule: evenodd"
+    />
+  </svg>
+</template>
+<script>
+export default {
+  name: 'PlayVid',
+}
+</script>

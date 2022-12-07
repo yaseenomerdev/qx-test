@@ -1,0 +1,27 @@
+@import './colors.scss';
+@import './fonts.scss';
+@import './general.scss';
+@import './sizes.scss';
+@import './transition.scss';
+@import './text-elements.scss';
+@import 'animate.css';
+
+html,
+a {
+  transition: all $public-transit;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.form-control:disabled {
+  background-color: #f6f7f8 !important;
+  opacity: 1;
+}
+
+.atlwdg-trigger {
+  z-index: 9999;
+}

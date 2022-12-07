@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.946" height="22.946" viewBox="0 0 22.946 22.946">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.7px}
+        </style>
+    </defs>
+    <g id="music-library-2" transform="translate(-1.15 -1.15)" stroke="currentColor">
+        <path id="Path_12900" data-name="Path 12900" class="cls-1" d="M23.246 13.312v4.249c0 3.718-2.125 5.312-5.312 5.312H7.312C4.125 22.872 2 21.279 2 17.561v-4.249C2 10.5 3.222 8.9 5.187 8.3A7.035 7.035 0 0 1 7.312 8h10.623a7.035 7.035 0 0 1 2.125.3c1.964.6 3.186 2.2 3.186 5.012z" transform="translate(0 .374)"/>
+        <path id="Path_12901" data-name="Path 12901" class="cls-1" d="M19.872 7.125v1.36a7.035 7.035 0 0 0-2.125-.3H7.125A7.035 7.035 0 0 0 5 8.484V7.125A2.131 2.131 0 0 1 7.125 5h10.623a2.131 2.131 0 0 1 2.124 2.125z" transform="translate(.187 .187)"/>
+        <path id="Path_12902" data-name="Path 12902" class="cls-1" d="M16.5 3.6v1.587H8V3.6A1.61 1.61 0 0 1 9.6 2h5.29a1.609 1.609 0 0 1 1.61 1.6z" transform="translate(.374)"/>
+    </g>
+</svg>

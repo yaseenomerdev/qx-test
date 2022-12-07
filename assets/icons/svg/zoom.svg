@@ -1,0 +1,39 @@
+     <svg
+        class="group-hover:hidden"
+        width="22.001"
+        height="12.002"
+        viewBox="0 0 22.001 12.002"
+      >
+        <defs>
+          <style>
+         .cls-1,cls-2{
+                         fill:#6c6c6c;
+
+         }
+            .cls-2 {
+              opacity: 0.25;
+                                       fill:#6c6c6c;
+
+            }
+          </style>
+        </defs>
+        <g id="zoom" transform="translate(-8.999 -13.999)">
+          <path
+            id="Union_10"
+            data-name="Union 10"
+            class="cls-1"
+            d="M996.5,12787a4.508,4.508,0,0,1-4.5-4.5v-5a2.506,2.506,0,0,1,2.5-2.5h8a4.506,4.506,0,0,1,4.5,4.5v5a2.5,2.5,0,0,1-2.5,2.5Z"
+            transform="translate(-983 -12761)"
+          />
+          <g id="Group_8827" data-name="Group 8827">
+            <path
+              id="Union_11"
+              data-name="Union 11"
+              class="cls-2"
+              d="M996.446,12787a1.509,1.509,0,0,1-1.062-.44l-2.487-2.076a2.488,2.488,0,0,1-.9-1.919v-3.132a2.494,2.494,0,0,1,.9-1.916l2.519-2.108a1.466,1.466,0,0,1,1.03-.407,1.513,1.513,0,0,1,1.553,1.5v9a1.5,1.5,0,0,1-1.5,1.5Z"
+              transform="translate(-967 -12760.999)"
+              
+            />
+          </g>
+        </g>
+      </svg>

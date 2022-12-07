@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.996" height="19.996" viewBox="0 0 19.996 19.996">
+  <g id="UI_icon_sun_light" data-name="UI icon/sun/light" transform="translate(-1.997 -2)">
+    <path id="Oval_Stroke_" data-name="Oval (Stroke)" d="M6,12a6,6,0,1,1,6-6A6.007,6.007,0,0,1,6,12ZM6,2a4,4,0,1,0,4,4A4.005,4.005,0,0,0,6,2Z" transform="translate(6 6)"/>
+    <path id="Path_Stroke_" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2A1,1,0,0,1,0,2V1A1,1,0,0,1,1,0Z" transform="translate(10.995 2)"/>
+    <path id="Path_Stroke_2" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2A1,1,0,0,1,0,2V1A1,1,0,0,1,1,0Z" transform="translate(10.995 19)"/>
+    <path id="Path_Stroke_3" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2.223a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(4.219 5.636) rotate(-45)"/>
+    <path id="Path_Stroke_4" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2.213a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(16.086 17.503) rotate(-45)"/>
+    <path id="Path_Stroke_5" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2A1,1,0,0,1,0,2V1A1,1,0,0,1,1,0Z" transform="translate(1.997 12.998) rotate(-90)"/>
+    <path id="Path_Stroke_6" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2A1,1,0,0,1,0,2V1A1,1,0,0,1,1,0Z" transform="translate(18.996 12.998) rotate(-90)"/>
+    <path id="Path_Stroke_7" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2.218a1,1,0,1,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(5.632 19.775) rotate(-135)"/>
+    <path id="Path_Stroke_8" data-name="Path (Stroke)" d="M1,0A1,1,0,0,1,2,1V2.223a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(17.493 7.914) rotate(-135)"/>
+  </g>
+</svg>

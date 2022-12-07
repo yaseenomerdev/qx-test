@@ -1,0 +1,28 @@
+<svg data-name="Group 6799" xmlns="http://www.w3.org/2000/svg" width="35.758" height="35.758" viewBox="0 0 35.758 35.758">
+    <defs>
+        <clipPath id="unhxdn00ba">
+            <circle data-name="Ellipse 521" cx="17.879" cy="17.879" r="17.879" style="fill:none"/>
+        </clipPath>
+        <clipPath id="1i4bmn68wb">
+            <circle data-name="Ellipse 522" cx="17.528" cy="17.528" r="17.528" style="fill:none"/>
+        </clipPath>
+        <clipPath id="j18masao1c">
+            <circle data-name="Ellipse 523" cx="16.126" cy="16.126" r="16.126" style="fill:none"/>
+        </clipPath>
+        <clipPath id="mez0sfbbxd">
+            <path data-name="Path 12223" d="m24.353 17.573 4.557-3.33c.4-.324.7-.249.7.351v10.155c0 .673-.379.6-.7.351l-4.557-3.33zM8.928 14.618v7.572a3.1 3.1 0 0 0 3.115 3.085h11.043a.564.564 0 0 0 .566-.561v-7.572a3.1 3.1 0 0 0-3.115-3.085H9.494a.564.564 0 0 0-.566.561z" transform="translate(-8.928 -14.053)" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 6795" style="clip-path:url(#unhxdn00ba)">
+        <path data-name="Path 12219" d="M0-.19h37.511v37.511H0z" transform="translate(-.876 -.686)" style="fill:#e5e5e4"/>
+    </g>
+    <g data-name="Group 6796" transform="translate(.351 .351)" style="clip-path:url(#1i4bmn68wb)">
+        <path data-name="Path 12220" d="M.38.19h36.809V37H.38z" transform="translate(-1.256 -1.066)" style="fill:#fff"/>
+    </g>
+    <g data-name="Group 6797" transform="translate(1.753 1.753)" style="clip-path:url(#j18masao1c)">
+        <path data-name="Path 12221" d="M1.9 1.71h34v34h-34z" transform="translate(-2.776 -2.586)" style="fill:#4a8cff"/>
+    </g>
+    <g data-name="Group 6798" transform="translate(7.362 12.266)" style="clip-path:url(#mez0sfbbxd)">
+        <path data-name="Path 12222" d="M7.978 13.107h22.437v12.971H7.978z" transform="translate(-8.855 -13.98)" style="fill:#fff"/>
+    </g>
+</svg>

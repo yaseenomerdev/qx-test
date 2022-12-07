@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'AvenirArabic';
+    src: url('../fonts/AvenirArabic-Book.otf');
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: 'AvenirArabic';
+    src: url('../fonts/AvenirArabic-Medium.otf');
+    font-weight: 500;
+  }
+  @font-face {
+    font-family: 'AvenirArabic';
+    src: url('../fonts/AvenirArabic-Heavy.otf');
+    font-weight: 700;
+  }
+
+  @font-face {
+    font-family: 'AvenirArabic';
+    src: url('../fonts/AvenirArabic-Light.otf');
+    font-weight: 300;
+  }
+
+  @font-face {
+    font-family: 'AvenirArabic';
+    src: url('../fonts/AvenirArabic-Black.otf');
+    font-weight: 900;
+  }
+  /* English Font Inter */
+
+  @font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Light.ttf');
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Regular.ttf');
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Medium.ttf');
+    font-weight: 500;
+  }
+  @font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Bold.ttf');
+    font-weight: 700;
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Black.ttf');
+    font-weight: 900;
+  }
+  :root {
+    --text-base: #000;
+    --text-inverted: #fff;
+    --text-muted: #92929d;
+    --text-active: #0a66d2;
+    --text-disabled: #b4b4b4;
+    --text-error: #e7404d;
+
+    --border-muted: #f1f1f5;
+    --border-muted2: #92929d;
+    --border-muted-btn: #e5e5e5;
+    --border-primary: #0a66d2;
+    --border-inverted: #000;
+
+    --bg-base: #fff;
+    --bg-muted: #f7f7f7;
+    --bg-row: #f0f0f0;
+    --bg-muted2: #92929d;
+    --bg-active: #e2f0ff;
+    --bg-hover: #f0f0f0;
+    --bg-disabled: #e5e5e5;
+    --bg-invertd: #121317;
+
+    --btn-primary: #0a66d2;
+    --btn-secondary: #0758b5;
+  }
+  .primary {
+    --text-base: #000;
+    --text-inverted: #fff;
+    --text-muted: #92929d;
+    --text-active: #0a66d2;
+    --text-disabled: #b4b4b4;
+    --text-error: #e7404d;
+
+    --border-muted: #f1f1f5;
+    --border-muted2: #92929d;
+    --border-muted-btn: #e5e5e5;
+    --border-primary: #0a66d2;
+    --border-inverted: #000;
+
+    --bg-base: #fff;
+    --bg-muted: #f7f7f7;
+    --bg-row: #f0f0f0;
+    --bg-muted2: #92929d;
+    --bg-active: #e2f0ff;
+    --bg-hover: #f0f0f0;
+    --bg-disabled: #e5e5e5;
+    --bg-invertd: #121317;
+
+    --btn-primary: #0a66d2;
+    --btn-secondary: #0758b5;
+  }
+
+  .dark {
+    --text-base: #fff;
+    --text-inverted: #fff;
+    --text-muted: #92929d;
+    --text-active: #0a66d2;
+    --text-disabled: #545a60;
+    --text-error: #e33737;
+
+    --border-muted: #302c2c;
+    --border-muted2: #3e3939;
+    --border-muted-btn: #2f2d2d;
+    --border-primary: #0a66d2;
+    --border-inverted: #fff;
+
+    --bg-base: #121317;
+    --bg-muted: #1a1c23;
+    --bg-muted2: #92929d;
+    --bg-row: #242424;
+    --bg-active: #0060ef38;
+    --bg-hover: #545050;
+    --bg-disabled: #28292e;
+    --bg-invertd: #fff;
+
+    --btn-primary: #0a66d2;
+    --btn-secondary: #50a4ed;
+  }
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+* {
+  font-family: 'Inter', 'AvenirArabic';
+}

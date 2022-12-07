@@ -1,0 +1,98 @@
+ <svg
+            width="53.666"
+            height="49.947"
+            viewBox="0 0 53.666 49.947"
+          >
+            <defs>
+              <clipPath id="clip-path">
+                <path
+                  id="Path_55"
+                  data-name="Path 55"
+                  d="M398.247,51.949a4.4,4.4,0,0,0-6.954-.728l-11.3,11.955A4.4,4.4,0,0,0,385.3,70.06l7.987-4.375,6.908,5.938a4.4,4.4,0,0,0,6.624-5.634Z"
+                  transform="translate(-378.749 -49.843)"
+                  fill="#ffc879"
+                  clip-rule="evenodd"
+                  style="mix-blend-mode: color-dodge; isolation: isolate"
+                />
+              </clipPath>
+              <clipPath id="clip-path-2">
+                <path
+                  id="Path_57"
+                  data-name="Path 57"
+                  d="M387.915,51.169a4.348,4.348,0,0,0,6.87.72l11.164-11.81a4.348,4.348,0,0,0-5.248-6.8L392.809,37.6l-6.822-5.866a4.348,4.348,0,0,0-6.544,5.566Z"
+                  transform="translate(-378.764 -30.644)"
+                  fill="#3bc4f0"
+                  clip-rule="evenodd"
+                  style="mix-blend-mode: hard-light; isolation: isolate"
+                />
+              </clipPath>
+            </defs>
+            <g id="Group_8821" data-name="Group 8821" transform="translate(0)">
+              <path
+                id="Path_1"
+                data-name="Path 1"
+                d="M389.692,53.527a3.658,3.658,0,0,0,1.083,5.709l12.216,6.136A3.658,3.658,0,0,0,407.2,59.5l-5.391-5.311,11.17-17.368a3.657,3.657,0,0,0-6.066-3.926Z"
+                transform="translate(-359.655 -28.294)"
+                fill="#e93e58"
+                fill-rule="evenodd"
+              />
+              <path
+                id="Path_2"
+                data-name="Path 2"
+                d="M392.17,51.834a3.659,3.659,0,0,0-1.083-5.709L378.87,39.989a3.657,3.657,0,0,0-4.208,5.874l5.393,5.311-11.17,17.37a3.657,3.657,0,0,0,6.066,3.925Z"
+                transform="translate(-368.541 -26.711)"
+                fill="#20314d"
+                fill-rule="evenodd"
+                style="isolation: isolate"
+              />
+              <path
+                id="Path_3"
+                data-name="Path 3"
+                d="M386.461,47.909a3.658,3.658,0,0,0,5.779.605l9.391-9.934a3.657,3.657,0,0,0-4.415-5.72L390.578,36.5l-5.739-4.934a3.658,3.658,0,0,0-5.5,4.682Z"
+                transform="translate(-365.625 -27.294)"
+                fill="#189ac4"
+                fill-rule="evenodd"
+                style="isolation: isolate"
+              />
+              <path
+                id="Path_4"
+                data-name="Path 4"
+                d="M394.952,51.593a3.658,3.658,0,0,0-5.779-.605l-9.391,9.934a3.657,3.657,0,0,0,4.415,5.72l6.637-3.636,5.741,4.934a3.658,3.658,0,0,0,5.5-4.682Z"
+                transform="translate(-361.794 -22.78)"
+                fill="#eca339"
+                fill-rule="evenodd"
+                style="isolation: isolate"
+              />
+              <g
+                id="Mask_Group_5"
+                data-name="Mask Group 5"
+                transform="translate(13.907 27.062)"
+                clip-path="url(#clip-path)"
+              >
+                <path
+                  id="Path_54"
+                  data-name="Path 54"
+                  d="M389.869,57.659a4.349,4.349,0,0,0,1.287,6.788l14.523,7.294a4.349,4.349,0,0,0,5-6.985l-6.409-6.314,13.279-20.648a4.348,4.348,0,0,0-7.212-4.668Z"
+                  transform="translate(-374.336 -60.936)"
+                  fill="#ffc879"
+                  fill-rule="evenodd"
+                />
+              </g>
+              <g
+                id="Mask_Group_6"
+                data-name="Mask Group 6"
+                transform="translate(11.737 0)"
+                clip-path="url(#clip-path-2)"
+              >
+                <path
+                  id="Path_56"
+                  data-name="Path 56"
+                  d="M396.632,54.15a4.35,4.35,0,0,0-1.287-6.788L380.82,40.068a4.348,4.348,0,0,0-5,6.983l6.411,6.314-13.279,20.65a4.347,4.347,0,0,0,7.211,4.666Z"
+                  transform="translate(-384.896 -28.266)"
+                  fill="#3bc4f0"
+                  fill-rule="evenodd"
+                  style="isolation: isolate"
+                />
+              </g>
+            </g>
+          </svg>

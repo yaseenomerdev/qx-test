@@ -1,0 +1,21 @@
+<svg stroke="currentColor" xmlns="http://www.w3.org/2000/svg" width="19.5" height="21.5" viewBox="0 0 19.5 21.5">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Iconly_Light_Calendar" data-name="Iconly/Light/Calendar" transform="translate(.75 .75)">
+        <g id="Calendar">
+            <path id="Line_200" class="cls-1" transform="translate(.093 7.404)" d="M0 0h17.824"/>
+            <path id="Line_201" class="cls-1" transform="translate(13.442 11.31)" d="M0 0h.009"/>
+            <path id="Line_202" class="cls-1" transform="translate(9.005 11.31)" d="M0 0h.009"/>
+            <path id="Line_203" class="cls-1" transform="translate(4.558 11.31)" d="M0 0h.009"/>
+            <path id="Line_204" class="cls-1" transform="translate(13.442 15.196)" d="M0 0h.009"/>
+            <path id="Line_205" class="cls-1" transform="translate(9.005 15.196)" d="M0 0h.009"/>
+            <path id="Line_206" class="cls-1" transform="translate(4.558 15.196)" d="M0 0h.009"/>
+            <path id="Line_207" class="cls-1" transform="translate(13.044)" d="M0 0v3.291"/>
+            <path id="Line_208" class="cls-1" transform="translate(4.966)" d="M0 0v3.291"/>
+            <path  id="Path" d="M13.238 1.579H4.771C1.834 1.579 0 3.215 0 6.222v9.05C0 18.326 1.834 20 4.771 20h8.458C16.175 20 18 18.355 18 15.348V6.222c.009-3.007-1.816-4.643-4.762-4.643z" style="fill-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px"/>
+        </g>
+    </g>
+</svg>

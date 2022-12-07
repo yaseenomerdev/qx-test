@@ -1,0 +1,42 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+    <defs>
+      <style>
+        .cls-2 {
+          fill: #fff;
+        }
+      </style>
+    </defs>
+    <g id="icons8-dashboard" transform="translate(-2 -2)">
+      <path
+        id="Path_12804"
+        data-name="Path 12804"
+        d="M12 3a9 9 0 1 0 9 9 9 9 0 0 0-9-9z"
+        style="opacity: 0.3; fill: #fff"
+      />
+      <path
+        id="Path_12805"
+        data-name="Path 12805"
+        class="cls-2"
+        d="M18 11a1 1 0 1 0 1 1 1 1 0 0 0-1-1zM6 11a1 1 0 1 0 1 1 1 1 0 0 0-1-1zm6-6a1 1 0 1 0 1 1 1 1 0 0 0-1-1zM7.5 8.9a1.107 1.107 0 0 0 1.4-.4 1.03 1.03 0 1 0-1.4.4zm0 8a1.03 1.03 0 1 0 1-1.8 1.03 1.03 0 1 0-1 1.8z"
+      />
+      <path
+        id="Path_12806"
+        data-name="Path 12806"
+        class="cls-2"
+        d="M12 22a10 10 0 1 1 10-10 10.029 10.029 0 0 1-10 10zm0-18a8 8 0 1 0 8 8 8.024 8.024 0 0 0-8-8z"
+      />
+      <path
+        id="Path_12807"
+        data-name="Path 12807"
+        class="cls-2"
+        d="M15.5 16.9a1.03 1.03 0 1 0-.4-1.4 1.107 1.107 0 0 0 .4 1.4zM12 10.5a1.5 1.5 0 1 0 1.5 1.5 1.5 1.5 0 0 0-1.5-1.5z"
+      />
+      <path
+        id="Path_12808"
+        data-name="Path 12808"
+        class="cls-2"
+        d="M11.1 8.8h6.3v2h-6.3z"
+        transform="rotate(-45 14.234 9.77)"
+      />
+    </g>
+  </svg>
